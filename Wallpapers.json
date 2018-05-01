@@ -1,39 +1,39 @@
 {
 	"wallpapers": [
 		{
-			"name": "2322",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/2322.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "wallpaper1",
+			"author": "SKR",
+			"url": "https://raw.githubusercontent.com/susanta151/S9-icon-pack/master/Wallpapers/Galaxy%20s9%20wallpaper%201.png",
+			"dimensions": "",
+			"copyright": ""
 		},
 		{
-			"name": "Airplane",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Airplane.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "wallpaper2",
+			"author": "SKR",
+			"url": "https://raw.githubusercontent.com/susanta151/S9-icon-pack/master/Wallpapers/Galaxy%20s9%20wallpaper%202.png",
+			"dimensions": "",
+			"copyright": ""
 		},
 		{
-			"name": "AutumnLeaves",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/AutumnLeaves.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "wallpaper3",
+			"author": "SKR",
+			"url": "https://raw.githubusercontent.com/susanta151/S9-icon-pack/master/Wallpapers/Galaxy%20s9%20wallpaper%203.png",
+			"dimensions": "",
+			"copyright": ""
 		},
 		{
-			"name": "Bay",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Bay.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "wallpaper4",
+			"author": "SKR",
+			"url": "https://raw.githubusercontent.com/susanta151/S9-icon-pack/master/Wallpapers/Galaxy%20s9%20wallpaper%204.png",
+			"dimensions": "",
+			"copyright": ""
 		},
 		{
-			"name": "Birds",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Birds.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "wallpaper5",
+			"author": "SKR",
+			"url": "https://raw.githubusercontent.com/susanta151/S9-icon-pack/master/Wallpapers/Galaxy%20s9%20wallpaper%205.png",
+			"dimensions": "",
+			"copyright": ""
 		}
 	]
 }
